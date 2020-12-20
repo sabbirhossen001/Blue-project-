@@ -6,6 +6,7 @@ body{
 header{
 	background-color: #121B2A;
 
+
 	}
 
 .wrapper{
@@ -424,6 +425,9 @@ footer{
 	color: white;
 
 
+}
+.fmenu ul li a:hover{
+	color: #09476E;
 }
 .fmenu ul li a:first-child{
 	padding-left: 0;
